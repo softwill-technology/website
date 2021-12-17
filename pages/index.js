@@ -75,8 +75,8 @@ export default function Home() {
                     <div className="u-align-center u-container-style u-layout-cell u-radius-10 u-size-40 u-white u-layout-cell-1">
                       <div className="u-container-layout u-container-layout-2">
                         <span className="u-icon u-icon-circle u-palette-2-light-3 u-spacing-18 u-icon-1">
-                          <Image src={image2} />
-                          <Image src={image1} />
+                          <Image src={image2} alt="image" />
+                          <Image src={image1} alt="image2" />
                         </span>
                         <h3 className="u-text u-text-default u-text-palette-1-base u-text-3">
                           Website
@@ -92,8 +92,8 @@ export default function Home() {
                     <div className="u-container-style u-layout-cell u-radius-10 u-size-20 u-white u-layout-cell-2">
                       <div className="u-container-layout u-container-layout-3">
                         <span className="u-icon u-icon-circle u-palette-1-light-3 u-spacing-16 u-icon-2">
-                        <Image src={image3} />
-                        <Image src={image4} />
+                        <Image src={image3} alt="image3" />
+                        <Image src={image4} alt="image4" />
                         </span>
                         <h3 className="u-align-center u-text u-text-default u-text-palette-1-base u-text-5">
                           Server
@@ -115,8 +115,8 @@ export default function Home() {
                     <div className="u-align-center u-container-style u-layout-cell u-radius-10 u-size-20 u-white u-layout-cell-3">
                       <div className="u-container-layout u-container-layout-4">
                         <span className="u-icon u-icon-circle u-palette-1-light-3 u-spacing-18 u-icon-3">
-                        <Image src={image5} />
-                        <Image src={image6} />
+                        <Image src={image5} alt="image5" />
+                        <Image src={image6} alt="image6" />
                         </span>
                         <h3 className="u-text u-text-default u-text-palette-1-base u-text-7">
                           Mobile Application
@@ -130,8 +130,8 @@ export default function Home() {
                     <div className="u-container-style u-layout-cell u-radius-10 u-size-40 u-white u-layout-cell-4">
                       <div className="u-container-layout u-container-layout-5">
                         <span className="u-align-center u-icon u-icon-circle u-palette-2-light-3 u-spacing-18 u-text-palette-1-base u-icon-4">
-                        <Image src={image7} />
-                        <Image src={image8} />
+                        <Image src={image7} alt="image7" />
+                        <Image src={image8} alt="image8" />
                         </span>
                         <h3 className="u-align-center u-text u-text-default u-text-palette-1-base u-text-9">
                           Redesign &amp; Maintainance

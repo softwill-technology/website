@@ -139,7 +139,7 @@ export default function Career() {
               
             </span>
             <h5 className="u-align-center-md u-align-center-sm u-align-center-xs u-text u-text-grey-50 u-text-4 connect-us">
-              Connect us on <a href="https://www.linkedin.com/company/72974697/admin" target="_blank" rel="noreferrer"><Image src={image} height={30} width={30}/></a>
+              Connect us on <a href="https://www.linkedin.com/company/72974697/admin" target="_blank" rel="noreferrer"><Image src={image} height={30} width={30} alt="image"/></a>
             </h5>
           </div>
         </div>
