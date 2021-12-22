@@ -168,7 +168,7 @@ export default function Home() {
                     <p className="u-text u-text-2">
                       {" "}
                       <strong> We are the change</strong> <br /><br />
-                      To transform the india's educational system into the digital world.
+                      To transform the india educational system into the digital world.
                       <br /><br />
                       The softwill family believes in action, progress, and
                       growth. The young startup has achieved several milestones
