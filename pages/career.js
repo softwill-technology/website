@@ -39,6 +39,7 @@ export default function Career() {
                 className="u-clearfix u-form-spacing-15 u-form-vertical u-inner-form"
                 style={{ padding: 15 }}
                 onSubmit={(e) => handleSubmit(e)} 
+                name="contact" netlify netlify-honeypot="bot-field" hidden
               >
                 <div className="u-form-group u-form-name">
                 <input
